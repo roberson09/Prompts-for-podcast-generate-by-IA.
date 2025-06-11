@@ -45,3 +45,37 @@ O formato deve ser
 
 - Não use termos técnicos e muitos termos em inglês.
 - Não ultrapasse o tempo de 5 minutos.
+
+---
+
+Fala, pessoal! Senta que lá vem história...Esse é o As Guardiãs da Interface — o podcast que mergulha no universo do UX Writing e do Figma pra revelar como as palavras e os visuais trabalham juntos pra transformar a experiência digital. 
+
+Imagina só: você entra num app novo, clica em “avançar” e... pá! Já tá perdido, sem saber o que fazer. A culpa não é sua — é da interface mal explicada! E se eu te dissesse que tem uma galera por trás que cuida justamente disso? UX Writing e Figma são os bastidores mágicos onde a experiência do usuário e o visual se encontram pra salvar a sua navegação. No episódio de hoje, vamos invocar duas curiosidades que todo iniciante precisa saber pra começar com o pé direito nesse mundo. Bora!
+
+# { CURIOSIDADE 1 — UX Writing }
+
+Você já reparou como uma simples palavra pode mudar tudo?
+
+Tem uma pesquisa famosa que mostrou que trocar o texto de um botão de **“Registrar”** para **“Criar minha conta gratuita”** aumentou os cadastros em quase 30%. Isso acontece porque o segundo texto tira a dúvida do usuário e mostra exatamente o que vai acontecer — sem enrolar.
+
+UX Writing é isso: pensar com a cabeça de quem tá usando, não de quem tá criando. É usar palavras simples, diretas e úteis pra guiar a pessoa como se fosse um GPS bem-humorado.
+
+---
+
+### { CURIOSIDADE 2 — Figma }
+
+Agora, segura essa dica pra quem tá começando no Figma: **não tenha medo de usar o botão “duplicar”.**
+
+Sério! Muita gente acha que precisa criar tudo do zero, mas o segredo dos iniciantes que evoluem rápido é: pegar um bom layout pronto, estudar como ele foi feito, e ir testando mudanças. Isso acelera o aprendizado e te mostra na prática como organizar elementos, espaçar, alinhar... sem sofrimento.
+
+É tipo ter um manual invisível te guiando enquanto você explora esse universo do design.
+
+---
+
+### { FINALIZAÇÃO }
+
+E é isso, jovem designer! Hoje a gente viu que escrever bem e organizar visualmente as ideias são dois superpoderes que andam lado a lado. E que sim, você pode começar pequeno — com uma palavra bem pensada e um botão bem posicionado.
+
+Se você curtiu, já salva esse episódio e compartilha com aquela pessoa que também tá começando no mundo do design digital.
+
+Eu sou o Roberson, e esse foi o **As Guardiãs da Interface** dessa semana. Até a próxima!
